@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abdul%20Rafe%20Khan/rafe/MLFLOW/mlruns/0/a23eb18742364002bf6c54f270bfd62a/artifacts
+end_time: 1690550250807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23eb18742364002bf6c54f270bfd62a
+run_name: stylish-mouse-703
+run_uuid: a23eb18742364002bf6c54f270bfd62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690550241446
+status: 3
+tags: []
+user_id: Abdul Rafe Khan
